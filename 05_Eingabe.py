@@ -1,5 +1,4 @@
 #Hier lernen wir wie wir Eingaben in dem Programm verarbeiten
-#Aufgabe 5
 
 '''
 Eingaben werden mit dem Befehl input initiiert. Die Eingabe speichert man dann in einer Variablen ab.
