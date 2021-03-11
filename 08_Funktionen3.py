@@ -1,5 +1,4 @@
 #Dies ist die Fortsetzung von dem Abschnitt über Funktionen hier lernen wir wie man eine Rückgabe von Funktionen erhält 
-#Aufgabe 8
 
 '''
 In den letzten Aufgaben haben wir immer eine direkte Ausgabe in der Funktion gehabt. Damit wir aber auch mit den Werten, die von der Funtkion erzeugt werden, weiterarbeiten können brauchen wir das return Statement.
