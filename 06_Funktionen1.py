@@ -1,5 +1,4 @@
 #In diesem Abschnitt wird die Benutzung von Funktionen erklärt
-#Aufgabe 6
 
 '''
 Mit Funktionen bringen wir Struktur in unseren Code und können Programmabfolgen die mehrmals vorkommen zusammenfassen und somit den Code zu verkürzen und Fehler vermeinden.
