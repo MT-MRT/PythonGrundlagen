@@ -1,5 +1,4 @@
 #In dieser Aufgabe geht es um das if else Statement
-#Aufgabe 10
 
 '''
 Das if Statement kann man zu einem else Statement erweitern. Das else ohne eine weitere Bedinung tritt dann in Kraft, wenn die Bedingung des if Statements nicht wahr ist. Knüpft man das else an eine weitere Bedingung, so wird dafür der Befehl "elif" genutzt, so kann man Fallunterscheidungen mit mehr als einem Fall erstellen.
