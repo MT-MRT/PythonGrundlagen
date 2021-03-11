@@ -1,5 +1,4 @@
 # Hier lernen wir wie man Variablen in Phyton nutzt 
-#Aufgabe 2
 
 """
 Aufgabe: Ändere den Namen des Roboter von "Lennart" auf "Lenn".
