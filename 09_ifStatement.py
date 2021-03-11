@@ -1,5 +1,4 @@
 #In dieser Aufgabe geht es um das if Statement
-#Aufgabe 9
 
 '''
 Nun kommen wir zu Fallunterscheidungen. Mit einen if Statement können wir unter einer Bedingung Aktionen einleiten. Ist die Bedingung nicht wahr, so wird die Aktion darunter einfach übersprungen. 
