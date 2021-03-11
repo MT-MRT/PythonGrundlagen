@@ -1,5 +1,4 @@
 #Dies ist die Fortsetzung von dem Abschnitt über Funktionen hier lernen wir wie man Parameter in eine Funktion einbindet
-#Aufgabe 7
 
 '''
 Bisher haben wir Funktionen nur dazu eingesetzt, dass sie das Nutzen von redundante Ausgabebefehle erleichtern. Nun lernen wir wie man Parameter in eine Funktion einbindet. 
