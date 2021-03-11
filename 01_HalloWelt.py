@@ -1,5 +1,5 @@
 #Willkommen zu den Aufgaben zur Einführung in Python
-#Aufgabe 1
+
 """
 Alles was entweder hinter dem # oder zwischen """ """ steht ist entweder die Aufgabenstellung oder Notizen welche euch beim Bearbeiten helfen werden
 
