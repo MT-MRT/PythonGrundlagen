@@ -1,5 +1,4 @@
 #Hier geht es um das Arbeiten mit Zahlen
-#Aufgabe4
 
 '''
 Nahdem wir Zahlen als Variablen deklariert und ausgegeben haben gehen wir nun einen Schritt weiter und lernen diese zu verrechnen oder im Nachgang zu verändern.
