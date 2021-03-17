@@ -1,3 +1,6 @@
+print('\n\033[92m##### Tutorial #####\033[0m\n')
+############## Beschreibung ##############
+
 #Willkommen zu den Aufgaben zur Einführung in Python
 
 """
@@ -9,4 +12,7 @@ Einen print-Befehl legt man mit print("...") an. Schreib nun einen print-Befehl 
 
 print("Hallo Welt!")
 
-#Notiz: In Python gibt es keine Semikolons an jedem Zeilenende wie in Java
+#Notiz: In Python gibt es keine Semikolons an jedem Zeilenende wie bspw. in Java
+
+print('\n\033[92m##### Studierende #####\033[0m\n')
+############## Ab hier kannst du deine Lösung schreiben ##############
