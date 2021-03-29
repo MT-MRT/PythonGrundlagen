@@ -5,6 +5,7 @@ Python-Tutorial für Studierende des Fachgebiets MRT
 ### Erste Schritte
 
 So installiert man Python / benutzt man replit.
+Für dieses Python-Tutorial werden die Platformen Github und repl.it genutzt. 
 
 ### Anleitung
 
