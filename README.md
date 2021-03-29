@@ -5,7 +5,7 @@ Python-Tutorial für Studierende des Fachgebiets MRT
 ### Erste Schritte
 
 Für dieses Python-Tutorial werden die Plattformen repl.it und Github genutzt.
-Gebe in deine Suchleiste https://replit.com/ ein. Damit gelangt man auf die Homepage von repl.it.
+Gebe in die Suchleiste deines Browsers https://replit.com/ ein. Damit gelangt man auf die Homepage von repl.it.
  
 Entweder Auf "<> Start coding" oder auf "Sign up" klicken. Daraufhin muss man ein Konto anlegen, dazu braucht ihr nur eine E-Mail Adresse. 
 Wenn das Anlegen des Kontos beendet ist kann es schon losgehen. Auf der linken Seite findet man einen Navigationsblock. Am relevantesten sind hier das Feld "+ new repl" und "My repls". Unter "+ new repl" kann man direkt neue Dateien erstellen. 
