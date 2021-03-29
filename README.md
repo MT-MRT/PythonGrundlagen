@@ -4,8 +4,16 @@ Python-Tutorial für Studierende des Fachgebiets MRT
 
 ### Erste Schritte
 
+Für dieses Python-Tutorial werden die Plattformen repl.it und Github genutzt.
+Gebe in deine Suchleiste https://replit.com/ ein. Damit gelangt man auf die Homepage von repl.it.
+ 
+Entweder Auf "<> Start coding" oder auf "Sign up" klicken. Daraufhin muss man ein Konto anlegen, dazu braucht ihr nur eine E-Mail Adresse. 
+Wenn das Anlegen des Kontos beendet ist kann es schon losgehen. Auf der linken Seite findet man einen Navigationsblock. Am relevantesten sind hier das Feld "+ new repl" und "My repls". Unter "+ new repl" kann man direkt neue Dateien erstellen. 
+
+Um nun dieses Python-Tutorial zu öffnen, muss dieses zuerst von GitHub importiert werden. Dafür einfach "Import from Github" auswählen und "MT-MRT/PythonGrundlagen" eingeben und mit Enter oder der Schaltfläche "Import from github" bestätigen. 
+
+
 So installiert man Python / benutzt man replit.
-Für dieses Python-Tutorial werden die Platformen Github und repl.it genutzt. 
 
 ### Anleitung
 
