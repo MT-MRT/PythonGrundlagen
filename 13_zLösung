@@ -7,4 +7,4 @@ while i<= eingabe_zahl:
   else:
     print(str(i) + " ist kein Teiler")
   i +=1
-print("Super! Es wurden alle Teiler von " + str(eingabe_zahl) + " wurden gefunden")
+print("Super! Es wurden alle Teiler von " + str(eingabe_zahl) + " gefunden")
