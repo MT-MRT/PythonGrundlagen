@@ -1,4 +1,4 @@
-#Dies ist ein Übungsprogramm um zu lernen die einzelnen Elemente zu verknüpfen, der Fokus liegt hier auf Fallunterscheidungen und Schleifen
+#Dies ist ein Übungsprogramm um zu lernen die einzeln gelerneten Elemente zu verknüpfen, der Fokus liegt hier auf Fallunterscheidungen und Schleifen
 '''
 Aufgabe: 
 Schreibe ein Programm, das eine Zahl über die Nutzereingabe annnimmt und alle ganzzahligen Teiler, welche die Zahl ohne Rest teilen, ausgibt.  Nutze die Tipps wenn Hilfe benötigt wird.
