@@ -1,4 +1,5 @@
-print("Lösung:")
+print('\n\033[92m##### Lösung #####\033[0m\n')
+############## Mögliche Lösung ##############
 
 print("Addition:")
 eingabe_zahl1 = float( input("Bitte gebe die erste Zahl ein: "))
