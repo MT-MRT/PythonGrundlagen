@@ -1,9 +1,11 @@
-#Hier lernen wir wie wir Eingaben in dem Programm verarbeiten
+print('\n\033[92m##### Tutorial #####\033[0m\n')
+############## Beschreibung ##############
+
+#Hier lernen wir wie man Nutzeringaben in einem Programm verarbeitet
 
 '''
-Eingaben werden mit dem Befehl input initiiert. Die Eingabe speichert man dann in einer Variablen ab.
-Der Nutzer kann gibt dann sobald die Eingebeauffoderung kommt das gewünschte ein und bestätigt dies mit Enter.
-
+Nutzereingaben werden mit dem Befehl input initiiert. Die Eingabe speichert man dann in einer Variablen ab.
+Der Nutzer gibt dann sobald die Eingebeauffoderung kommt das Gewünschte ein und bestätigt dies mit drücken von der Entertaste.
 Zum Beispiel so:
 '''
 eingabe_zahl = input("Gebe hier die Zahl ein: ")
@@ -12,10 +14,9 @@ print("Ein/e " + eingabe_tier + " hat " + eingabe_zahl + " Beine.\n")
 
 '''
 Aufgabe: Erstelle eine Art kleinen Taschenrechner, welcher die ersten beiden Zahlen die der Nutzer eingibt addiert und die darauffolgenden Zahlen dividiert. Danach sollen die Ergebnisse ausgegeben werden. 
-
-Notiz: Wichtig ist zu wissen, dass alle Eingaben als strings abgespeichert werden. Wenn du nun also versuchst die Zahlen zu addieren, wird es die Zahlen nur hinereinaderreihen, da ein plus auch zum Zusammenfügen von strings genutzt werden kann. 
-
-Somit musst du der Eingabe einen für Zahlen adäquaten Datentyp zuweisen, wie z.B int oder wenn du auch Kommazahlen verrechen magst float (z.B int( input ("...")) ). Danach darfst du nicht vergessen bei der Ausgabe wieder eine string daraus zu machen.
-
-Falls dich das Beispiel stört kommentier es einfach aus! (# oder ''' ''')
 '''
+# Notiz: Wichtig ist zu wissen, dass alle Eingaben als strings abgespeichert werden. Wenn du nun also versuchst die Zahlen zu addieren, wird es die Zahlen nur hinereinaderreihen, da ein Plus auch zum Zusammenfügen von Strings genutzt werden kann. Somit musst man der Eingabe einen adäquaten Datentyp zuweisen, wie z.B int oder wenn man auch Kommazahlen rechnen möchte float (z.B int( input ("...")) ). Danach darfst man jedoch nicht vergessen bei der Ausgabe wieder eine String daraus zu machen.
+# Falls dich das Beispiel stört kommentier es einfach aus! (#.... oder ''' ... ''')
+
+print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
+############## Ab hier kannst du deine Lösung schreiben ##############
