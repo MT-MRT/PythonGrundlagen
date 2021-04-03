@@ -1,13 +1,14 @@
 import random
 
+print('\n\033[92m##### Lösung #####\033[0m\n')
+############## Mögliche Lösung ##############
+
 def mittelwert(zahl1, zahl2, zahl3):
   mittelwert = (zahl1 + zahl2 + zahl3)/3
   return mittelwert
 
 def ausgabe(eingabe,info):
   print(str(eingabe) + " " + info)
-
-print("Lösung:")
 
 zahl1 = float(input("Gebe hier die erste Zahl ein: "))
 zahl2 = float(input("Gebe hier die zweite Zahl ein: "))
