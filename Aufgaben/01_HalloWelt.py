@@ -1,4 +1,4 @@
-print('\n\033[92m##### Tutorial 1 #####\033[0m\n')
+print('\n\033[92m##### Tutorial #####\033[0m\n')
 ############## Beschreibung ##############
 
 #Willkommen zu den Aufgaben zur Einführung in Python
