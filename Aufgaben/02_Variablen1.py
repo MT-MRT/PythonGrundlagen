@@ -25,5 +25,5 @@ print("Hallo Welt")
 print("Hallo Welt\n")
 print("Hallo Welt")
 
-print('\n\033[92m##### Studierende #####\033[0m\n')
+print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
 ############## Ab hier kannst du deine Lösung schreiben ##############
