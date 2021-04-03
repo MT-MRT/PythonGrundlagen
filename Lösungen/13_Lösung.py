@@ -1,4 +1,6 @@
-print("Lösung:")
+print('\n\033[92m##### Lösung #####\033[0m\n')
+############## Mögliche Lösung ##############
+
 i = 1
 eingabe_zahl = int(input("Gebe hier die Zahl ein: "))
 while i<= eingabe_zahl:
