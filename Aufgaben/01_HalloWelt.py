@@ -1,4 +1,4 @@
-print('\n\033[92m##### Tutorial #####\033[0m\n')
+print('\n\033[92m##### Tutorial 1 #####\033[0m\n')
 ############## Beschreibung ##############
 
 #Willkommen zu den Aufgaben zur Einführung in Python
@@ -14,5 +14,5 @@ print("Hallo Welt!")
 
 #Notiz: In Python gibt es keine Semikolons an jedem Zeilenende wie bspw. in Java
 
-print('\n\033[92m##### Studierende #####\033[0m\n')
+print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
 ############## Ab hier kannst du deine Lösung schreiben ##############
