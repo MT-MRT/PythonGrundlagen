@@ -9,7 +9,7 @@ print(rechner(nummer))
 
 '''
 print('\n\033[92m##### Lösung #####\033[0m\n')
-############## Hier noch eine weitere mögliche Lösung, zum Anschauen einefach die '''...''' entfernen ##############
+############## Hier noch eine weitere mögliche Lösung, zum Anschauen einefach die  (''' ''') entfernen ##############
 
 def rechner(zahl):
   quadrieren = zahl*zahl
