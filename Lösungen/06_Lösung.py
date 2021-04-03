@@ -1,10 +1,12 @@
+print('\n\033[92m##### Lösung #####\033[0m\n')
+############## Mögliche Lösung ##############
+
 def hallo():
   print("Hallo")
 
 def tschuess():
   print("Tschüss")
 
-print("Hier eine mögliche Lösung:")
 hallo()
 tschuess()
 hallo()
