@@ -13,6 +13,7 @@ Einen print-Befehl legt man mit print("...") an. Schreib nun einen print-Befehl 
 print("Hallo Welt!")
 
 # Zum Ausführen des Programms das rechte Feld von Markdown auf Console umschalten und "python Aufgaben/01_HalloWelt.py" eingeben und mit Enter bestätigen
+
 # Notiz: In Python gibt es keine Semikolons an jedem Zeilenende wie bspw. in Java
 
 print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
