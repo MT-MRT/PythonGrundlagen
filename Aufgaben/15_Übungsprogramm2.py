@@ -1,11 +1,13 @@
 print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
 ############## Ab hier kannst du deine Lösung schreiben ##############
 
-#Dies ist ein Übungsprogramm um zu lernen die einzeln gelernten Elemente zu verknüpfen, der Fokus liegt hier auf der Nutzung von Funktionen
+#Dies ist ein Übungsprogramm um die einzeln gelerneten Elemente miteinander zu verknüpfen, der Fokus liegt hier auf Fallunterscheidungen und Schleifen.
+
+# Wenn du es schaffst die Übungsprogramme umzusetzen, bist du bereit den Roboter zu programmieren!
 
 '''
 Aufgabe:
-Schreibe ein Programm das drei float Werte über die Nutzereingabe annimmt und aus diesen erst mithilfe der Funktion "mittelwert" den Mittelwert der drei Zahlen bildet. 
+Schreibe ein Programm das drei float Werte über die Nutzereingabe annimmt und aus diesen erst mithilfe der selbstgeschriebenen Funktion "mittelwert" den Mittelwert der drei Zahlen bildet. 
 Das Ergebnis soll dann über eine weitere Funktion namens "ausgabe" das Ergebnis und ein erklärendes Wort dazu ausgeben (Beispielausgabe: 345,5 - Mittelwert).
 
 Weiterführend soll eine Zufallszahl zwischen 1 und 100000 generiert werden. Dafür muss das Modul "random" importiert werden. Zum Generieren der Zufallszahl wird dann die in random vorhandene Funktion ".randint()" genutzt, diese wird mit "random.radint()"aufgerufen. In den Klammern von radiant werden zurerst der Anfangswert und dann der Endwert der Menge, aus der die Zufallszahl generiet werden soll, übergeben (Beispiel das Erstellen eines zuälligen Würfels: würfel = random.radiant(1,6)).

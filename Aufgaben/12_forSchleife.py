@@ -5,7 +5,7 @@ print('\n\033[92m##### Tutorial #####\033[0m\n')
 
 '''
 Nun lernen wir wie man Schleifen nutzt. Schleifen sind sehr wichtig um bestimmte Vorgänge die mehrmals durchgefürhrt werden nicht immer erneut schreiben zu müssen, als auch um Vorgänge so lange zu wiederholen bis das erwünschte Ziel erreicht ist.
-In der letzten Aufgabe hatten wir mehrmals hintereinader den Aufruf zur Ausgabe der Liste Solch eine Listenausgabe kann man mit einer for-Schleife vereinfachen.
+In der letzten Aufgabe hatten wir mehrmals hintereinader den Aufruf zur Ausgabe der Liste. Solch eine Listenausgabe kann man mit einer for-Schleife vereinfachen.
 '''
 print("Erster Aufruf der Liste einkauf")
 einkauf= ["Apfel", "Brot", "Chips", "Nudeln"]
@@ -21,20 +21,20 @@ Ist die for Schleife zu Ende kann man wie bei einem if-Statement eine else anhä
 '''
 print() #dieses print ist nur für einen Absatz in der Ausgabe, damit diese übersichtlicher wird, da
 for i in range(1, 5):
-	print (i)
+	print(i)
 else:
-	print ("Die for-Schleife ist zu Ende.")
+	print("Die for-Schleife ist zu Ende.")
 
 '''
 Mit dem Nutzen von der Zählvariable kann man auch die Ausgabe einer Liste gestalten: 
 '''
 print("\nZweiter Aufruf der Liste einkauf")
 for s in range(0,len(einkauf)):
-  print (einkauf[s])
+  print(einkauf[s])
 
 ''''
 Aufgabe:
-Schreibe eine Liste welche fünf Personennamen enthält. Zuerst soll diese Liste über die zuerst gelernte Art der Ausgabe ausgegeben werden. 
+Schreibe eine Liste welche fünf Personennamen enthält. Zuerst soll diese Liste über die zuvor gelernte Art der Ausgabe ausgegeben werden. 
 Als Zweites soll die Liste mit einer weiteren for-Schleife und der Nutzung von einer Zählvariablen nochmals ausgegeben werden. Bei dieser Ausgabe sollen die einzelnen Ausgaben zusätzlich von 1 bis 5 nummeriert werden. 
 '''
 print('\n\033[92m##### Lösung Studierende #####\033[0m\n')

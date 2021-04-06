@@ -11,9 +11,8 @@ while i < 4:
 
     if zahl % 2 != 0:
         print("Diese Zahl ist nicht gerade!")
-
     else:
-     geradeZahlen[i]=zahl
-     i+=1
+        geradeZahlen[i]=zahl
+        i+=1
 
     print("\n" + str(geradeZahlen) + "\n")

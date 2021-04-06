@@ -5,8 +5,8 @@ print('\n\033[92m##### Tutorial #####\033[0m\n')
 
 '''
 In den letzten Aufgaben haben wir immer eine direkte Ausgabe in der Funktion gehabt. Damit wir aber auch mit den Werten, die von der Funtkion erzeugt werden, weiterarbeiten können brauchen wir das return Statement.
-Das return Statement steht am Ende des Funktionskörpers. Nach dem return Statement steht die Variable, welche wir zurückgeben wollen. Alles was in der nächsten Zeile nach einem return Statement geschrieben wird, wird nicht mehr vom Commpiler gelesen. 
-Die zurückgegebene Variable kann dann entweder direkt ausgegeben oder es kann weiter mit ihr gearbeitet werden.
+Das return Statement steht am Ende der Funktion. Nach dem return Statement steht die Variable, welche wir zurückgeben wollen. Alles was in der nächsten Zeile nach einem return Statement geschrieben wird, wird nicht mehr vom Interpreter gelesen. 
+Die zurückgegebene Variable kann dann entweder direkt ausgegeben oder gespeichert werden.
 Hier ein Beispiel:
 '''
 

@@ -4,8 +4,8 @@ print('\n\033[92m##### Tutorial #####\033[0m\n')
 #Hier lernen wir wie man mit Listen arbeitet
 
 '''
-Man kann Listen in Python nutzen um Elemente beliebiger Datentypen geordnet zu ´verstauen. Anhand des Listenplatzes kann man wieder auf die einzelnen Elemente der Liste zugreifen und diese verändern oder löschen. 
-Hier ein  Beispiel:
+Man kann Listen in Python nutzen um Elemente beliebiger Datentypen geordnet zu verstauen. Anhand des Listenplatzes kann man wieder auf die einzelnen Elemente der Liste zugreifen und diese verändern oder löschen. 
+Hier ein Beispiel:
 '''
 studium = ["Maschinenbau","Bachelor",9,6]
 print(studium)
@@ -17,7 +17,7 @@ studium[1]="Master"
 print("Neuer Wert der Stelle 1: " + studium[1])
 print("Die Liste Studium hat " + str(len(studium)) + " Elemente")
 '''
-Wie hier schon zu sehen, kann man eine Liste durch einen Namen der Liste und dann eckige Klammern mit den Elementen darin anlegen. Um dann wieder auf die Elemente zuzugreifen wird die Stelle in der Liste, in welcher das Element steht, in Kombination mit dem Namen der Liste angegeben (Listenname[Stelle]). Es ist dabei zu beachten, dass das erste Element einer Liste an der Stelle 0 steht.
+Wie hier schon zu sehen, kann man eine Liste durch einen Namen der Liste und dann eckige Klammern mit den Elementen darin anlegen. Um dann wieder auf die Elemente zuzugreifen wird die Stelle in der Liste, in welcher das Element steht, in Kombination mit dem Namen der Liste angegeben (Listenname[Stelle]). Es ist dabei zu beachten, dass das erste Element einer Liste an der Stelle 0 (nicht 1!) steht.
 
 Wenn man eine längere Liste hat und auf eines der hinteren Elemente zugreifen möchte, so kann man auch von hinten auf die Liste zugreifen. Dazu werden negative Stellenangaben genutzt, dabei ist es wichtig zu wissen, dass [-1] das letzte Element ist.
 
