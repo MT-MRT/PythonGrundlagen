@@ -40,6 +40,7 @@ print(studium)
 Aufgabe: 
 Erstelle eine Liste welche eine Einkaufsliste enthält. Fülle die Liste abwechselnd mit dem Lebensmittel welches gekauft werden soll und im nächsten Element der Anzahl dessen. Schreibe mindestens drei Lebensmittel auf die Einkaufsliste.
 Ändere nun nachträglich ein Lebensmittel und die Anzahl davon. 
+Füge dann mit mit ".append()" ein weiteres Lebensmittel und danach noch die Anzahl dessen an die Liste an.
 Für die Ausgabe soll eine Funktion geschrieben werden, die das Lebensmittel und die Anzahl annimmt und diese in der Form Anzahl x Lebensmittel ausgibt. Gebe so nach und nach die ganze Liste aus.
 '''
 print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
