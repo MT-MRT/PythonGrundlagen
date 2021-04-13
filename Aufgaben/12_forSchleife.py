@@ -16,10 +16,10 @@ for lebensmittel in einkauf:
 '''
 Die for-Schleife geht die einzelnen Elemente der Liste bis sie zum letzten Element kommt durch und gibt diese aus. 
 
-Eine for Schleife kann man aber auch nutzen, wenn man etwas bestimmt oft wiederholen möchte. Dazu wird eine Zählvariable, wie hier zum Beispiel i, genutzt. Diese wird jeden Schleifendurchlauf um eins erhöht. Mit range(1,5)wird angegeben bis zu welchem Wert von i die Schleife laufen soll. 
+Eine for Schleife kann man aber auch nutzen, wenn man etwas bestimmt oft wiederholen möchte. Dazu wird eine Zählvariable, wie hier zum Beispiel i, genutzt. Diese wird jeden Schleifendurchlauf um eins erhöht. Mit range(1,5) wird angegeben bis zu welchem Wert von i die Schleife laufen soll. Die erste Zahl in der Klammer ist der Anfangswert der Zählvariablen und diese zählt bis eins kleiner der zweiten Zahl, somit hier i=1 bis i<5, also zählt es von eins bis vier. 
 Ist die for Schleife zu Ende kann man wie bei einem if-Statement eine else anhängen welches dann in Kraft tritt.
 '''
-print() #dieses print ist nur für einen Absatz in der Ausgabe, damit diese übersichtlicher wird, da
+print() #dieses print ist nur für einen Absatz in der Ausgabe da
 for i in range(1, 5):
 	print(i)
 else:
