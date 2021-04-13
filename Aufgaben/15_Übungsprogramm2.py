@@ -1,5 +1,5 @@
-print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
-############## Ab hier kannst du deine Lösung schreiben ##############
+print('\n\033[92m##### Tutorial #####\033[0m\n')
+############## Beschreibung ##############
 
 #Dies ist ein Übungsprogramm um die einzeln gelerneten Elemente miteinander zu verknüpfen, der Fokus liegt hier auf Fallunterscheidungen und Schleifen.
 
