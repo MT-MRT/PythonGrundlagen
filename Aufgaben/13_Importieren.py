@@ -15,9 +15,9 @@ Wie die Funktionen in den importierten Modulen heißen und was diese an Paramete
 Aufgabe:
 Importiere die Module "time" und "random".
 In "time" gibt es die Funktion ".sleep()" mit der man das Fortlaufen des Programms verzögert. Als Parameter wird hier eine Zeit in Sekunden angegeben.
-Mit "random" kann man Zufallszahlen erstellen. Wir nutzen hier die Funktion ".radint". In den Klammern von radiant werden zuerst der Anfangswert und dann der Endwert der Menge, aus der die Zufallszahl generiet werden soll, übergeben (Beispiel das Erstellen eines zufälligen Würfels: würfel = random.radiant(1,6)).
-Nutze nun die ".radiant" Funktion und erstelle eine Zufallszahl zwischen zwei und sieben, gebe diese im Anschluss aus.
-Schreibe dann eine for-Schleife, die sooft wie die Zufallszahl hoch ist durchläuft. In der Schleife befinden sich zwei Ausgaben, die erste gibt den Durchlauf der Schleife an (also die Höhe der Zählvariablen). Die zweite Ausgabe soll mit ".sleep" um 3 Sekunden verzögert kommen und "Diese Ausgabe ist verzögert" ausgeben.
+Mit "random" kann man Zufallszahlen erstellen. Wir nutzen hier die Funktion ".randint()". In den Klammern von randint werden zuerst der Anfangswert und dann der Endwert der Menge, aus der die Zufallszahl generiet werden soll, übergeben (Beispiel das Erstellen eines zufälligen Würfels: würfel = random.randint(1,6)).
+Nutze nun die ".randint()" Funktion und erstelle eine Zufallszahl zwischen zwei und sieben, gebe diese im Anschluss aus.
+Schreibe dann eine for-Schleife, die sooft wie die Zufallszahl hoch ist durchläuft. In der Schleife befinden sich zwei Ausgaben, die erste gibt den Durchlauf der Schleife an (also die Höhe der Zählvariablen). Die zweite Ausgabe soll mit ".sleep()" um 3 Sekunden verzögert kommen und "Diese Ausgabe ist verzögert" ausgeben.
 '''
 print('\n\033[92m##### Lösung Studierende #####\033[0m\n')
 ############## Ab hier kannst du deine Lösung schreiben ##############
