@@ -1,7 +1,7 @@
 print('\n\033[92m##### Tutorial #####\033[0m\n')
 ############## Beschreibung ##############
 
-# Hier lernen wir wie man Variablen in Phyton nutzt 
+# Hier lernen wir wie man Variablen in Python nutzt 
 
 """
 Aufgabe: Ändere den Namen des Roboter von "LEGO" auf "Mindstorm".
