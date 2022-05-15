@@ -27,4 +27,4 @@ print(roboter_name + " wurde aus " + str(anzahl_bauteile) + " Bauteilen gebaut."
 print("Der Roboter besteht zwar nur aus " + str(anzahl_bauteile) + " besteht ist die Höchstgeschwindigkeit von " + roboter_name + " " + str(geschwindigkeit_hoechst) + "km/h.")
 
 # Notiz: Du fragt dich warum in dem Text vor dem Abrufen einiger Variablen ein str() steht? Das liegt daran, dass es sonst Probleme gibt, da wir hier mit einem String und einer Zahl gleichzeitig arbeiten. Daher muss man explizit sagen, dass man hier eine Zahl hat, welche als Text ausgegeben werden soll. 
-# Lösche das "str()" einmal und schaue die Fehlermeldung an. Man muss immer daran denken, wenn man mit einer Zahl und einem String gleichzeitg arbeitet, die Zahl muss für die Ausgabe in einem String umgewandelt werden.
+# Lösche das "str()" einmal und schaue die Fehlermeldung an. Man muss immer daran denken, wenn man mit einer Zahl und einem String gleichzeitg arbeitet, dass die Zahl für die Ausgabe in einen String umgewandelt werden muss.
