@@ -5,7 +5,7 @@ print('\n\033[92m##### Tutorial #####\033[0m\n')
 
 '''
 Aufgabe: 
-Schreibe ein Programm, welches eine Zahl über die Nutzereingabe annnimmt und alle ganzzahligen Teiler, welche die Zahl ohne Rest teilen, ausgibt. Nutze die Tipps wenn Hilfe benötigt wird.
+Schreibe ein Programm, welches eine Zahl über die Nutzereingabe annimmt und alle ganzzahligen Teiler, welche die Zahl ohne Rest teilen, ausgibt. Nutze die Tipps wenn Hilfe benötigt wird.
 
 Tipps:
 1. Erstelle eine Variable die als Teiler der eingegebenen Zahl dient. Nutze dann eine Schleife (zum Beispiel eine while Schleife) um diesen Teiler in jedem Schleifendurchlauf um eins zu erhöhen.
